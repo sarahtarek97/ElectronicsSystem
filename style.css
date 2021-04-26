@@ -1,0 +1,27 @@
+body {
+    padding-top: 7%;
+    background-color: rgb(243, 240, 240);
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p {
+    font-size: 35px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    border: 2px gray solid !important;
+}
+
+button:hover {
+    background-color: green !important;
+}
